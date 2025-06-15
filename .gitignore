@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+git_token.txt
+scraping.ipynb
