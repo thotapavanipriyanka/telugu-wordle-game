@@ -20,5 +20,5 @@ A command-line Wordle-style game built for Telugu! Guess the hidden word within 
 Run the game:
 
 ```bash
-python3 telugu_wordle.py
+python3 game.py
 
