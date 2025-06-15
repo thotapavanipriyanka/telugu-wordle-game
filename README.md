@@ -17,10 +17,7 @@ A command-line Wordle-style game built for Telugu! Guess the hidden word within 
 
 ---
 
-## 🚀 How to Play
-
-1. Add Telugu words (one per line) in `data/words.txt`
-2. Run the game:
+Run the game:
 
 ```bash
 python3 game.py
