@@ -109,7 +109,7 @@ def main():
     target = random_word()  # Get a random Telugu word
     target_clusters = cluster_split(target)
     print("Hint: Target word has", len(target_clusters), "clusters.")  # Display the number of clusters
-    print("And the word is ",{target} )
+    # print("And the word is ",{target} )
 
     attempts = 6
     guessed_correctly = False
