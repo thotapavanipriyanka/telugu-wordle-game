@@ -3,7 +3,7 @@ import random
 
 
 def random_word():
-    file_path = '/home/pavani/work/wordle/telugu/TeluguOCR-master/telugu_words.txt'
+    file_path = 'data/words.txt'
     with open(file_path, 'r', encoding='utf-8') as f:
         words = f.readlines()  # Read all lines into a list
         return random.choice(words).strip()  # Pick a random word and strip newline characters
